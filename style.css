@@ -897,10 +897,6 @@ video {
 .duration-300 {
   transition-duration: 300ms;
 }
-
-#check:checked + label {
-}
-
 #check + label::before {
   transform: translateX(0);
   transition: all 0.3s;
